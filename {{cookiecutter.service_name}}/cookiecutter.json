@@ -1,7 +1,0 @@
-{
-  "service_name": "sample-service",
-  "project_slug": "{{ cookiecutter.service_name.lower().replace(' ', '-') }}",
-  "author_name": "Wipro",
-  "python_version": "3.11",
-  "node_version": "22"
-}
